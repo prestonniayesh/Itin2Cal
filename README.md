@@ -3,8 +3,7 @@ Reads all events from an Itinerary in Google Docs and adds them to a Google Cale
 
 Just enter the name of your itinerary, and Itin2Cal will do the rest! This program uses Google Drive API, Google Sheets API, and Google Apps Script.
 
-![First Page of Itinerary](/desktop/itinerary.png)
-Format: ![Alt Text](url)
+![Alt text](/desktop/itinerary.jpg?raw=true "First Page of Itinerary")
 
 ![Events Inserted Into Spreadsheet](/desktop/spreadsheet.png)
 Format: ![Alt Text](url)
